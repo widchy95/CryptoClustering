@@ -69,7 +69,7 @@ pip install pandas hvplot scikit-learn
 ## Usage
 1. Clone the repository to your local machine:
    ```bash
-   git clone [<repository-link>](https://github.com/widchy95/CryptoClustering/)
+   git clone https://github.com/widchy95/CryptoClustering.git
    cd CryptoClustering
    ```
 
