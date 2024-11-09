@@ -69,7 +69,7 @@ pip install pandas hvplot scikit-learn
 ## Usage
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-link>
+   git clone [<repository-link>](https://github.com/widchy95/CryptoClustering/)
    cd CryptoClustering
    ```
 
@@ -82,3 +82,6 @@ pip install pandas hvplot scikit-learn
 
 ## Conclusion
 The **CryptoClustering** project showcases the process of clustering cryptocurrencies using K-Means with both the original and PCA-reduced data. The comparison of clustering results highlights how dimensionality reduction can impact the analysis and visualization of complex datasets.
+
+**Widchy Joachim**
+*Data Analyst*
